@@ -1,0 +1,10 @@
+---
+name: feed1
+pollingInterval: 1000
+kafkaTimeout: 10000
+batchSize: 1000
+---
+name: feed2
+pollingInterval: 5000
+kafkaTimeout: 10000
+batchSize: 500
