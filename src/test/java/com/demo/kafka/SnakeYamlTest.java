@@ -42,8 +42,6 @@ public class SnakeYamlTest extends TestCase {
 		System.out.println(feeds.get("feed1"));
 		System.out.println(feeds.get("feed2"));
 		
-		
-		
 	}
 	
 //	@Test
